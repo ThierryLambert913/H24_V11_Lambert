@@ -1,2 +1,2 @@
 
-![photo] (IMG_0371.jpg)
+![photo](photo1.jpg)
