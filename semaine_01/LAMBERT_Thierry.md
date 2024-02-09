@@ -1,1 +1,1 @@
-[!photo] (IMG_0371.jpg)
+![photo] (IMG_0371.jpg)
