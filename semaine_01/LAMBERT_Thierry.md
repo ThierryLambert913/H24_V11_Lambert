@@ -3,6 +3,6 @@
     <link rel="stylesheet" href="Lambert.css">
   </head>
   <body>
-    <img src=""
+    <img src="H24_V11_Lambert/semaine_01/">
   </body>
 </html>
