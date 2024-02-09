@@ -1,2 +1,2 @@
 
-![photo](photo1.jpg)
+![photo](photo_1.jpg)
