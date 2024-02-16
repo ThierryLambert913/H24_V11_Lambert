@@ -1,3 +1,3 @@
 # Phase shifting index
 
-![Photo](
+![Photo](IMG_0294.jpg)
