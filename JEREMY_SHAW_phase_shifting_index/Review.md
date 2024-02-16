@@ -1,6 +1,10 @@
 # Phase shifting index
 Voici ma présentation sur l'oeuvre de Jeremy Shaw:
 
+L'entrée fait de l'oeuvre, elle commence par des paragraphes décrivant le contexte des vidéo qui seront présentés,
+
+puis, nous rentront dans une pièce où les murs sont couverts de photos représent plusieur sous-culture.
+
 L'oeuvre de Jérémi Shaw est très particulière, elle est une pièce,
 
 une pièce avec 6 écrans.
