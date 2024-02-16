@@ -1,4 +1,5 @@
 # Phase shifting index
-Voici ma présentation sur l'oeuvre de Jeremy Shaw
+Voici ma présentation sur l'oeuvre de Jeremy Shaw:
 
-![Photo](media/IMG_0294.jpg) ![Photo](media/IMG_0295.jpg)
+L'oeuvre de Jérémi Shaw est très particulière, elle est une pièce,
+un pièce avec 6 écrans.
