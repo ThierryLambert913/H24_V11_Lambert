@@ -17,4 +17,5 @@ Les vidéo se répètent, l'ordre est établis.
 
 Sauf que ce n'est pas le cas.
 
-Les parties documentaire commence à être retiré, l'ordre n'était qu'une illusion, ce qui sera un thème répétée dans la pièce.
+Les parties documentaire commence à être retiré, l'ordre n'était qu'une illusion, ce qui sera un thème répétée dans la pièce. Selon ma mémoire, les vidéos répétée ne suivent pas le même ordre et certaines parties de leurs vidéos sont manquantes.
+
