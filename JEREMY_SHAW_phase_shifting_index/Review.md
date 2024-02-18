@@ -4,6 +4,8 @@ Voici ma présentation sur l'oeuvre de Jeremy Shaw:
 L'entrée fait de l'oeuvre, elle commence par des paragraphes décrivant le contexte des vidéo qui seront présentés,
 
 ![photo](media/IMG_0294.jpg)
+![photo](media/IMG_0295.jpg)
+
 
 puis, nous rentront dans une salle où les murs sont couverts de photos représent plusieur sous-culture.
  
