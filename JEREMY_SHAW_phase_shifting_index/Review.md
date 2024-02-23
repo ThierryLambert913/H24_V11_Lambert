@@ -17,7 +17,11 @@ Puis on entre dans la pièce
 
 L'oeuvre de Jérémi Shaw est très particulière, elle est une pièce,
 
+<img src=media/IMG_0302.jpg width="600">
+
 une pièce avec 6 écrans.
+
+<img src=media/IMG_0303.jpg width="600">
 
 Sur chaque écran y est représenter un groupe différent, tous ont une vision du monde différent, de dfférente années, mais quelque chose d'unique les rassembles.
 
