@@ -6,13 +6,17 @@ L'entrée fait de l'oeuvre, elle commence par des paragraphes décrivant le cont
 ![photo](media/IMG_0294.jpg)
 ![photo](media/IMG_0295.jpg)
 
-nous avons accès à un livre décrivant le contexte de la pièce. Démontrant la quantité de recherche qui a été mis dans l'oeuvre dès le départ
+nous avons accès à un livre décrivant le contexte de la pièce. Démontrant la quantité de recherche qui a été mis dans l'oeuvre dès le départ.
 
 ![photo](media/IMG_0298.jpg)
+![photo](media/IMG_0299.jpg)
+![photo](media/IMG_0300.jpg)
 
-puis, nous rentront dans une salle où les murs sont couverts de photos représent plusieur sous-culture.
- 
+À la suite, nous allons dans une salle où les murs sont couverts de photos représent plusieur sous-culture.
+
 Puis on entre dans la pièce
+
+![photo](media/IMG_0301.jpg)
 
 L'oeuvre de Jérémi Shaw est très particulière, elle est une pièce,
 
