@@ -3,7 +3,7 @@ Voici ma présentation sur l'oeuvre de Jeremy Shaw:
 
 L'entrée fait de l'oeuvre, elle commence par des paragraphes décrivant le contexte des vidéo qui seront présentés,
 
-![photo](media/IMG_0294.jpg | width=100)
+![photo](media/IMG_0294.jpg =100x100)
 ![photo](media/IMG_0295.jpg)
 
 nous avons accès à un livre décrivant le contexte de la pièce. Démontrant la quantité de recherche qui a été mis dans l'oeuvre dès le départ.
