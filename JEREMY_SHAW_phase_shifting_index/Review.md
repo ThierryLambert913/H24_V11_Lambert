@@ -35,6 +35,8 @@ Ensuite, les gens commencent à danser, chaque groupe à son propre style. Il fa
 
 Les vidéo se répètent, l'ordre est établis.
 
+<img src=media/IMG_0318.jpg width="600">
+
 Sauf que ce n'est pas le cas.
 
 Les parties documentaire commence à être retiré, l'ordre n'était qu'une illusion, ce qui sera un thème répétée dans la pièce. Selon ma mémoire, les vidéos répétée ne suivent pas le même ordre et certaines parties de leurs vidéos sont manquantes.
