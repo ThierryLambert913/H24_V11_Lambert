@@ -13,7 +13,7 @@ nous avons accès à un livre décrivant le contexte de la pièce. Démontrant l
 
 Puis on entre dans la pièce
 
-![photo](media/IMG_0301.jpg)
+<img src=media/IMG_0301.jpg width="400">
 
 L'oeuvre de Jérémi Shaw est très particulière, elle est une pièce,
 
