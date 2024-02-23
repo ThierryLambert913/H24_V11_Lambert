@@ -13,15 +13,15 @@ nous avons accès à un livre décrivant le contexte de la pièce. Démontrant l
 
 Puis on entre dans la pièce
 
-<img src=media/IMG_0301.jpg width="600">
+<img src=media/IMG_0307.jpg width="600">
 
 L'oeuvre de Jérémi Shaw est très particulière, elle est une pièce,
 
-<img src=media/IMG_0302.jpg width="600">
+<img src=media/IMG_0308.jpg width="600">
 
 une pièce avec 6 écrans.
 
-<img src=media/IMG_0303.jpg width="600">
+<img src=media/IMG_0311.jpg width="600">
 
 Sur chaque écran y est représenter un groupe différent, tous ont une vision du monde différent, de dfférente années, mais quelque chose d'unique les rassembles.
 
