@@ -7,9 +7,7 @@ L'entrée fait de l'oeuvre, elle commence par des paragraphes décrivant le cont
 
 nous avons accès à un livre décrivant le contexte de la pièce. Démontrant la quantité de recherche qui a été mis dans l'oeuvre dès le départ.
 
-![photo](media/IMG_0298.jpg)
-![photo](media/IMG_0299.jpg)
-![photo](media/IMG_0300.jpg)
+<img src=media/IMG_0298.jpg width="400"> <img src=media/IMG_0299.jpg width="400"> <img src=media/IMG_0300.jpg width="400">
 
 À la suite, nous allons dans une salle où les murs sont couverts de photos représent plusieur sous-culture.
 
