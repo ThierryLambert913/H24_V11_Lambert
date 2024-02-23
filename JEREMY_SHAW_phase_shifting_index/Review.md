@@ -27,6 +27,8 @@ Sur chaque écran y est représenter un groupe différent, tous ont une vision d
 
 La dance.
 
+<img src=media/IMG_0317.jpg width="600">
+
 D'abord, les vidéo ressemble à un documentaire, les croyances sont décris, les gens sont introduit, les noms sont données, les pratiques sont pratiquer. La vie est simple.
 
 Ensuite, les gens commencent à danser, chaque groupe à son propre style. Il faut noter que le début de la danse n'est pas unifié, chaque groupe commence à un moment différent.
