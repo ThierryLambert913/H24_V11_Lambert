@@ -15,6 +15,7 @@ Durant l'exposition, le sujet de la colonisation est mis en discussion de façon
 \
 \
 Dans certaines exhibition, nous pouvons y voir des outils de pêche. 
+![alt text](img/20240323_172328670_iOS.png)
 \
 \
 L'exposition utilise aussi des projecteurs pour faire jouer des vidéos en boucle. 
