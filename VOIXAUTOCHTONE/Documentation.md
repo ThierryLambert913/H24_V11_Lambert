@@ -5,6 +5,13 @@ Durant la pièce, j'ai observé une proéminence de cercle, cela est une référ
 \
 \
 Durant l'exposition, le sujet de la colonisation est mis en discussion de façon pertinente. Certain objets sont montrés nous permettant d'apprendre beaucoup sur la façon dont il vivait.
+![alt text](img/20240323_171400218_iOS (1).png)
+\
+\
+![alt text](/img/20240323_171514972_iOS.png)
+\
+\
+![alt text](/img/20240323_171525631_iOS 2 (1).png)
 \
 \
 Dans certaines exhibition, nous pouvons y voir des outils de pêche. 
