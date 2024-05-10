@@ -18,7 +18,15 @@ Dans certaines exhibition, nous pouvons y voir des outils de pêche.
 ![alt text](img/20240323_172328670_iOS.png)
 \
 \
+Ici, nous pouvons voire un manteau fait d'intestin
+![alt text](img/20240323_171613402_iOS.png)
+\
+\
 L'exposition utilise aussi des projecteurs pour faire jouer des vidéos en boucle. 
 \
 \
 Lorsque la pièce aborde le sujet des atrocités qui ont été comis envers les peuples autochtones, les couleurs dominantes de la salle sont noir et rouge, il y a moins de lumière dans cette pièce. 
+\
+\
+En dehors de la pièce, un totem est montré
+![alt te](img/20240323_173640486_iOS.png)
