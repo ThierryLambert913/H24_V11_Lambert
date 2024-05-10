@@ -8,10 +8,10 @@ Durant l'exposition, le sujet de la colonisation est mis en discussion de façon
 ![alt text](img/20240323_171400218_iOS (1).png)
 \
 \
-![alt text](/img/20240323_171514972_iOS.png)
+![alt text](img/20240323_171514972_iOS.png)
 \
 \
-![alt text](/img/20240323_171525631_iOS_2_(1).png)
+![alt text](img/20240323_171525631_iOS_2_(1).png)
 \
 \
 Dans certaines exhibition, nous pouvons y voir des outils de pêche. 
