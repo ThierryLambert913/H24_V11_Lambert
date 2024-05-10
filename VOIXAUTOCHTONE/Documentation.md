@@ -1,7 +1,7 @@
 Bonjour, dans cette présentation, je vais parler de mon expérience dans cette exposition!
 #  Introduction
 Durant la pièce, j'ai observé une proéminence de cercle, cela est une référence aux pratiques religieuses des peuples autochtones.
-[!alt text](img/20240323_171127036_iOS.png)
+![alt text](img/20240323_171127036_iOS.png)
 \
 \
 Durant l'exposition, le sujet de la colonisation est mis en discussion de façon pertinente. Certain objets sont montrés nous permettant d'apprendre beaucoup sur la façon dont il vivait.
